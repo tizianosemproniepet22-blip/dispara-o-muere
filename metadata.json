@@ -1,0 +1,6 @@
+{
+  "name": "Neon Cube Platformer",
+  "description": "A 2D synthwave side-scrolling action platformer featuring 20 unique levels with neon themes, boss battles, hazardous obstacles, and an energy blaster arsenal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
